@@ -34,7 +34,7 @@
 <img width="898" height="706" alt="image" src="https://github.com/user-attachments/assets/b801a58a-367b-44e6-8bc2-0eac2a6b4662" />
 
 ### Output:
-<img width="830" height="494" alt="image" src="https://github.com/user-attachments/assets/d955e755-633a-469b-bfb2-9a60518bffc2" />
+<img width="2000" height="1414" alt="reverse eng" src="https://github.com/user-attachments/assets/90c2d9a1-d8b6-41ff-b0ec-e749234eeea3" />
 
 
 ### Name:MOhammad Suhael
